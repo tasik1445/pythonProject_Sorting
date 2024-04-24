@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6b4771c9-0cc9-4700-b707-79a7c46974fa" name="Changes" comment="Add new file">
-      <change afterPath="$PROJECT_DIR$/QuickSort.py" afterDir="false" />
+    <list default="true" id="6b4771c9-0cc9-4700-b707-79a7c46974fa" name="Changes" comment="Add file">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,7 +57,7 @@
     "Python.QuickSort.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/LAPAID/PycharmProjects/pythonProject_Sorting"
+    "last_opened_file_path": "D:/1.1.OSTAD_MERN"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -114,7 +113,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713278418006</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Add new file">
+      <option name="closed" value="true" />
+      <created>1713364354175</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1713364354175</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

@@ -57,4 +57,4 @@ if __name__ == '__main__':
     for x in array:
         print(x, end=" ")
 
-# This code is contributed by Adnan Aliakbar
+# This code is contributed by Adnan Aliakbar [geeksforgeeks website]

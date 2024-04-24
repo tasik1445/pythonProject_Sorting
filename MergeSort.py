@@ -40,4 +40,4 @@ if __name__ == '__main__':
     print("\nSorted array is ")
     print(*arr)
 
-# This code is contributed by Vishu Vaishnav
+# This code is contributed by Vishu Vaishnav [geeksforgeeks website]

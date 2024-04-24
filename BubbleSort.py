@@ -31,4 +31,4 @@ if __name__ == "__main__":
     for i in range(len(arr)):
         print("%d" % arr[i], end=" ")
 
-# This code is modified by Suraj krushna Yadav
+# This code is modified by Suraj krushna Yadav [geeksforgeeks website]
